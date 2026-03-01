@@ -448,9 +448,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 👨‍💻 Author
 
-**Amit Kumar Godara**
-- GitHub: [@vinod2400](https://github.com/vinod2400)
-- Email: amitkumargodara8385@gmail.com
+**Insha Khan**
+- GitHub:https://github.com/InshaaKhan
 
 ## 🙏 Acknowledgments
 
