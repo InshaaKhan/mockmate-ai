@@ -458,12 +458,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 - React and TypeScript communities
 - All contributors
 
-## 📧 Support
-
-For issues or questions:
-- Open an [Issue](https://github.com/vinod2400/Echo-Prep/issues)
-- Email: support@echoprep.dev
-
 ## 🎓 Learning Resources
 
 - [React Documentation](https://react.dev)
